@@ -1,2 +1,1 @@
-# java-web-app-docker
-# java-web-app-docker
+First java-web-app-docker project
